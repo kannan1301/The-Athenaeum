@@ -4,7 +4,8 @@
 
 ### *A Dark Academia Productivity Platform*
 
-<img src="./assets/banner.png" alt="Athenaeum Banner" width="100%" />
+<img width="380" height="250" alt="REFERENCE PICTURE" src="https://github.com/user-attachments/assets/2899d18f-6126-4ca0-8296-83a7be0c548d" />
+
 
 <br>
 
